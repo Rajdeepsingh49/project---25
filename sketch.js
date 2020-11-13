@@ -82,10 +82,10 @@ function draw() {
   
  
 
-  
+  image(dustbinimg,800,380,200,200);
   paper.display();
   ground.display();
-  image(dustbinimg,800,380,200,200);
+  
 	
 	
 
